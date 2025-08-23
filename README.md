@@ -4,6 +4,10 @@
 
 A simple Python terminal program to track chess.com ratings in different game modes.
 
+## Bug Reports & Suggestions
+
+If you find a bug or have a suggestion, please open an [issue](https://github.com/sharpylt/ChessLeaderboardTerminal/issues) on this repository.
+
 ## Features
 
 - Track multiple chess.com usernames in a leaderboard.
