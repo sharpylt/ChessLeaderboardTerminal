@@ -28,4 +28,4 @@ If you find a bug or have a suggestion, please open an [issue](https://github.co
 2. Run the script in your terminal:
 
 ```bash
-python leaderboard.py
+python chess-leaderboard.py
